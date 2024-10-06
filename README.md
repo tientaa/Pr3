@@ -1,3 +1,8 @@
+ a51cc8aa88e344e1f8ec6db014697d88-1431848550.us-east-1.elb.amazonaws.com:5153/api/reports/daily_usage
+a51cc8aa88e344e1f8ec6db014697d88-1431848550.us-east-1.elb.amazonaws.com:5153/api/reports/user_visits
+
+
+
 Microservices AWS Kubernetes Project
 This project sets up a microservices architecture on AWS EKS (Elastic Kubernetes Service), including a PostgreSQL database and a Python analytics service. It provides configurations and deployment files for both cloud and local environments.
 
