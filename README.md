@@ -1,5 +1,5 @@
- a51cc8aa88e344e1f8ec6db014697d88-1431848550.us-east-1.elb.amazonaws.com:5153/api/reports/daily_usage
-a51cc8aa88e344e1f8ec6db014697d88-1431848550.us-east-1.elb.amazonaws.com:5153/api/reports/user_visits
+Demo: a51cc8aa88e344e1f8ec6db014697d88-1431848550.us-east-1.elb.amazonaws.com:5153/api/reports/daily_usage
+Demo: a51cc8aa88e344e1f8ec6db014697d88-1431848550.us-east-1.elb.amazonaws.com:5153/api/reports/user_visits
 
 
 
