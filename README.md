@@ -6,6 +6,7 @@ TienT4 projest - https://github.com/
 
 
 
+
 Microservices AWS Kubernetes Project
 This project sets up a microservices architecture on AWS EKS (Elastic Kubernetes Service), including a PostgreSQL database and a Python analytics service. It provides configurations and deployment files for both cloud and local environments.
 
